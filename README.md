@@ -15,6 +15,6 @@ Esse perfil é utilizado para postar projetos pessoais e acadêmicos
 ---
 # Curiosidades sobre mim
 - Adoro café
-- Fanático por matemática e física
+- Gosto muito de matemática e física
 - Desenho no meu tempo livre
 - Gosto de ler e tocar música
