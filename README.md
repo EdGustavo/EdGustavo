@@ -1,7 +1,7 @@
 # Olá! 👋
 Eu me chamo Gustavo, sou desenvolvedor júnior e estudante de Ciências da Computação \
 \
-Tenho experiência com Python, Java e C, principalmente em meio acadêmico \
+Tenho experiência com Python, Java, JS e C, principalmente em meio acadêmico \
 \
 Gosto de estudar assuntos que envolvem machine learning, desenvolvimento de software, microcontroladores e análise de dados\
 \
