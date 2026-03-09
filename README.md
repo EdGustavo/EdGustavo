@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá!
 Eu me chamo Gustavo, sou desenvolvedor júnior e estudante de Ciências da Computação \
 \
 Tenho experiência com Python, Java, JS e C, principalmente em meio acadêmico \
