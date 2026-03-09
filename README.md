@@ -9,7 +9,7 @@ Esse perfil é utilizado para postar projetos pessoais e acadêmicos
 
 --- 
 # Ferramentas e Conheciemntos
-- Java, Python, C, HTML/CSS
+- Java, JavaScript, C, React
 - Linux, inglês nível C1
 
 ---
