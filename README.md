@@ -1,5 +1,7 @@
 ### **About:**
 
+I go by Eddy in the Internet and Gustavo in real life
+
 ```diff
 I love technology, art and books
 
